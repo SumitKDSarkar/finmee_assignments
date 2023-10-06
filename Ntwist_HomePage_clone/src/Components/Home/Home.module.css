@@ -1,4 +1,4 @@
-/* HomePage.css */
+
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;1,300;1,400&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,300;1,400&display=swap");
 body {
@@ -14,6 +14,8 @@ body {
   background-image: url("https://ntwist.com/wp-content/uploads/2023/01/home-image-bg-v6.png");
   background-size: cover;
   min-height: 100vh;
+  
+  
 }
 
 .leftContent {
