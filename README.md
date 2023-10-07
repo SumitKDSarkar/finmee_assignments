@@ -17,6 +17,11 @@ Have a look ⬇️
 **Deploying:** [Vercel](https://finmee-assignments.vercel.app/)
 
 
+## GitHub
+
+**Deploying:** [Vercel](https://finmee-assignments-52sq.vercel.app/)
+
+
 
 
 
