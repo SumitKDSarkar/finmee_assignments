@@ -12,7 +12,9 @@ Have a look ⬇️
 
 **Client:** HTML, CSS, JavaScript, React.JS, TailWind.css
 
-**Deploying:** [Vercel]()
+## NTWIST
+
+**Deploying:** [Vercel](https://finmee-assignments.vercel.app/)
 
 
 
